@@ -16,8 +16,6 @@ Clone this repository and use it as a initial template for your project.
 |       `-- routes.go
 |-- config
 | `-- config.go
-|-- go.mod
-|-- go.sum
 |-- pkg
 |   |-- handlers
 |   |   `-- handler.go
