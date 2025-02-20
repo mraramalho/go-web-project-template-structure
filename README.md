@@ -18,7 +18,7 @@ Clone this repository and use it as a initial template for your project.
 | `-- config.go
 |-- pkg
 |   |-- handlers
-|   |   `-- handler.go
+|   |   `-- handlers.go
 | |-- models
 | | `-- templatedata.go
 |   `-- render
